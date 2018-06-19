@@ -23,10 +23,10 @@ We wanted to show statistics regarding various sport events and the twitter "moo
 
 # Visualizations
 
-Sentiment Analysis Scatter Plot of Media Tweets
-![Scatter_PLot](/imagesAthlete vs Population(Zoom in).jpeg)
+Scatter Plot
+![Scatter_PLot](/graphs/Athlete_vs_Population(Zoom).jpeg)
 
 
-Overall Sentiment Analysis Bar Chart of Media Tweets
-![Bar Chart](/images/Bar_Chart_Sentiment.png)
+Word Cloud
+![Word Cloud](/images/feb3_flights_wordcloud.png)
 
