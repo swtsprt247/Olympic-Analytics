@@ -1,6 +1,4 @@
 # Olympic Analytics
-https://swtsprt247.github.io/Olympic-Analytics/
-
 For this project, various python scripts and applications were used to depict historical data of the Winter Olympics.  
 
 
