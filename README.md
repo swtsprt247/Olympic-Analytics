@@ -23,8 +23,8 @@ We wanted to show statistics regarding various sport events and the twitter "moo
 
 # Visualizations
 
-Scatter Plot
-![Scatter_PLot](/graphs/Athlete_vs_Population(Zoom).jpeg)
+Scatter Plot:  The size of the bubble indicates the number of medals won
+![Scatter_PLot](/graphs/Athlete_vs_Population.png)
 
 
 Word Cloud
