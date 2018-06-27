@@ -28,6 +28,4 @@ Scatter Plot:  The size of the bubble indicates the number of medals won
 ![Scatter_PLot](/graphs/Athlete_vs_Population.png)
 
 
-Word Cloud
-![Word Cloud](/images/feb3_flights_wordcloud.png)
 
