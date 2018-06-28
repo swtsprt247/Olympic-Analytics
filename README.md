@@ -27,7 +27,7 @@ https://swtsprt247.github.io/Olympic-Analytics/
 Scatter Plot:  The size of the bubble indicates the number of medals won
 ![Scatter_PLot](/graphs/Athlete_vs_Population.png)
 
-![bar graph](/graphs/gender.png)
+![bar graph](/images/gender.png)
 
 
 
